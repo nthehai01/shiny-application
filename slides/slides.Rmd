@@ -1,0 +1,30 @@
+---
+title: "Shiny Application and Reproducible Pitch"
+author: "nthehai01"
+date: '2022-08-07'
+output: 
+  ioslides_presentation:
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+## Introduction
+
+In this assignment, I am going to create a random app and a web page presentation to explain what the app is as well as show you how to use this app.
+
+## Project Detail
+
+In this project, I am offering you an EDA app (link to the app provided in the next slide) from the Iris data set. There are 4 features for each Iris: (1) Sepal Length, (2) Sepal Width, (3) Petal Length, and (4) Petal Width. I have already provided an interactive Pair plot for you. You can choose any set of features to perform the EDA process.
+
+**Note**: You must select a sub-set of at least 2 features to make the EDA understandable.
+
+## Project Links
+
+-   Shiny app: [https://ztp34z-th0h0i-nguy0n.shinyapps.io/iris-app](https://ztp34z-th0h0i-nguy0n.shinyapps.io/iris-app/).
+
+-   Source code: <https://github.com/nthehai01/shiny-application>.
+
+## **This is the end of the slides**
